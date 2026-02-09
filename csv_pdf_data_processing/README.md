@@ -1,0 +1,1 @@
+Repo used to manipulate data from a pdf score list. It ingests the pdf and convert it to csv (pdf2csv.py), it cleans data, and save the cleaned csv (clean.py) in outputs folder. At the end it creates the plots with plots.py and save them.

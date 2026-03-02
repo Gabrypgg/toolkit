@@ -1,3 +1,3 @@
-moviepy
-pytube
+pytubefix
 youtube-transcript-api
+moviepy

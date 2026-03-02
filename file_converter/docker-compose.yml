@@ -1,0 +1,10 @@
+services:
+  yt-toolkit:
+    build: .
+    container_name: yt-toolkit
+    volumes:
+      - ./video_mp4:/app/video_mp4
+      - ./video_mp3:/app/video_mp3
+      - ./transcriptions:/app/transcriptions
+    stdin_open: true # allows for interactive mode
+    tty: true       # allows for interactive mode

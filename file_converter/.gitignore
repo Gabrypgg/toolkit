@@ -1,3 +1,5 @@
 video_mp4/*
 video_mp3/*
 transcriptions/*
+*/__pycache__/*
+*/.DS_Store
